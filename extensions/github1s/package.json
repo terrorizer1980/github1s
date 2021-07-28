@@ -419,7 +419,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@apollo/client": "^3.3.9",
+    "@apollo/client": "^3.4.0",
     "dayjs": "^1.10.4",
     "graphql": "^15.5.0",
     "history": "^5.0.0",
