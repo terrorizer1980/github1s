@@ -423,7 +423,7 @@
     "dayjs": "^1.10.4",
     "graphql": "^15.5.0",
     "history": "^5.0.0",
-    "js-base64": "^3.6.0",
+    "js-base64": "^3.6.1",
     "json-stable-stringify": "^1.0.1",
     "match-sorter": "^6.3.0",
     "p-finally": "^2.0.1",
